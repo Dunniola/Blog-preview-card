@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-content:center;
+    min-height: 100vh;
+    background-color:  hsl(47, 88%, 63%);
+    font-size: 1rem;
+    font-family: 'Figtree';
+}
+.main-container{
+    background-color: white;
+    max-width: 22rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    border: 1px solid black;
+   box-shadow: 10px 10px 0px black;
+}
+.article{
+    width: 100%; 
+    border-radius: 1rem;
+}
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    padding: 0.5rem;
+    position:relative;
+    top:1rem;
+    margin-top: 2rem;
+    border-radius: 0.2rem;
+    font-weight: 800;
+}
+article{
+    margin-top: 2rem;
+    
+}
+h1{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+
+}
+h1:hover{
+     cursor: pointer; 
+    color: hsl(47, 88%, 63%);
+    caret-color: black;
+    
+}
+p{
+    margin-top: 1rem;
+    color: hsl(0, 0%, 50%);
+    padding-right: 1rem;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+}
+.flex{
+    display: flex;
+    gap: 1rem;
+}
+.flex img{
+    width: 2rem;
+    margin-top: 1rem;
+}
+.flex span{
+    margin-top: 1.5rem;
+    font-weight: 800;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 1rem;
+ }
+.attribution a {
+ color: hsl(228, 45%, 44%);
+ }
+ @media(max-width:960px){
+    .main-container{
+        padding: 1.5rem;
+    }
+    p{
+        padding-right: 1rem;
+    }
+ }
