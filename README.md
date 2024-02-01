@@ -35,7 +35,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Blog-preview-card.git)
-- Live Site URL: [Netlify App](https://your-live-site-url.com)
+- Live Site URL: [Github App](https://dunniola.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -49,6 +49,6 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/Blog-preview-card/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
